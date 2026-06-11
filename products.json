@@ -1,0 +1,26 @@
+[
+  {
+    "name": "laptop",
+    "qty": 5,
+    "price": 100000.0,
+    "type": "physical"
+  },
+  {
+    "name": "MacBook",
+    "qty": 6,
+    "price": 50000.0,
+    "type": "physical"
+  },
+  {
+    "name": "mouse",
+    "qty": 5,
+    "price": 400.0,
+    "type": "physical"
+  },
+  {
+    "name": "monitor",
+    "qty": 3,
+    "price": 55000.0,
+    "type": "physical"
+  }
+]
